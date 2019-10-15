@@ -40,3 +40,6 @@ nb-configuration.xml
 .classpath
 .project
 
+# IntelliJ
+out/
+
